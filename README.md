@@ -1,4 +1,9 @@
-### Hi there 👋
+Hi!
+
+I'm Joanne, otherwise known as Jinhee, a new software developer!
+
+Fun Fact:
+I'm an avid gamer and am hoping to selflearn the skillset to make my first dummy program!
 
 <!--
 **jinhee220/jinhee220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
